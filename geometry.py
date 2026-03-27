@@ -1,4 +1,4 @@
-# Geometry calculations module - updated by Role B
+
 import math
 
 def triangle_area(base, height):
@@ -17,4 +17,4 @@ if __name__ == "__main__":
     def circle_area(radius):
     """Calculates the area of a circle."""
     return math.pi * (radius ** 2)
-    
+    # Final update
