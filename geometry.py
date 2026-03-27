@@ -1,4 +1,4 @@
-# Geometry calculations module - updated by Role A
+# Geometry calculations module - updated by Role B
 import math
 
 def triangle_area(base, height):
